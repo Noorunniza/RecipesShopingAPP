@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct practikalpadiklApp: App {
+struct RecipiesShopingApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

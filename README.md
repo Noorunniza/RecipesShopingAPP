@@ -36,5 +36,4 @@ This is a simple SwiftUI application that displays a list of recipes and allows 
 
 ---
 
-## 📂 Project Structure
 
